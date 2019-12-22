@@ -5,7 +5,7 @@
 Please read this Privacy Policy carefully to understand our policies and practices regarding your Personal Data (as defined below) and how we will treat it.
 The Company is a data controller within the meaning of this Privacy Policy.
 
-### COLLECTION AND PROCESSING OF PERSONAL INFORMATION
+#### COLLECTION AND PROCESSING OF PERSONAL INFORMATION
 When you use the Application, we collect certain personally identifiable information that can be used to identify you (“Personal Data”). We may ask you to provide the following Personal Data:
 Information you give us: This is information about you that you give us by filling in your details when using our Application for the first time: name, gender, relationship status, place of birth, date of birth, time of birth, a line/shape model of your left and right palm and, if you lodge a customer query, your email address and any other information about yourself you choose to provide to use us when you lodge a customer query with us.
 Information collected by technical resources:  Information regarding appliances used, such as data on the type of hardware and/or software. This information includes your IP address, your browser type and language, information about your device, history of using other applications, access location and times, information on other apps installed on your device, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address.
